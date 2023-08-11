@@ -1,6 +1,10 @@
 # chatwave
 
-A new Flutter project.
+This project is a chat application name "Chat Wave" developed using 
+the Flutter framework and the Firebase Firestore database. The 
+application allows users to create profiles, search for friends, and chat 
+with them in real-time. The project includes features such as
+authentication, data validation.The application is designed with a userfriendly interface to ensure the quality of the application.
 
 ## Getting Started
 
