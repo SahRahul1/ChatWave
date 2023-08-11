@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>859298762470-3a6ldmsctmjd3ri82t2447opd63ca3pr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.859298762470-3a6ldmsctmjd3ri82t2447opd63ca3pr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDoCcKT4dJcA6eC2Zh4LI8PMDiq3HNHOFk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>859298762470</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.spectrum.chatwave</string>
+	<key>PROJECT_ID</key>
+	<string>chatwave-2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatwave-2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:859298762470:ios:c89a01b2e2d11cd8d87527</string>
+</dict>
+</plist>
